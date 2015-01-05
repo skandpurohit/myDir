@@ -1,4 +1,4 @@
 myDir
 =====
 
-Practicing Python from Head First Python 
+Python from Head First Python 
