@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = 'nesterMe',
-    version = '1.0.0',
+    version = '1.1.0',
     py_modules = ['nesterMe'],
     author = 'skandpurohit',
     author_email = 'skandpurohit@gmail.com',

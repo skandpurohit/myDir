@@ -1,7 +1,7 @@
-import nester
+import nesterMe
 
-car = ['mazda', 'honda', 'toyota' ]
+car = ['mazda', 'honda' , ['Accord' , 'Civic'] , 'toyota' ]
 
-nester.recursiveArray(car)
+nesterMe.recursiveArray(car, 0)
 
 
